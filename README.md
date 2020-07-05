@@ -24,18 +24,18 @@ You must have Pycaret(for Machine Leraning Model) and Flask (for API) installed.
 PyCaret is an open source, low-code machine learning library in Python to train and deploy machine learning pipelines and models in production. PyCaret can be installed easily using pip.
 
 #### for Jupyter notebook on your local computer
-- pip install pycaret
+> pip install pycaret
 
 #### for azure notebooks and google colab
 
-- !pip install pycaret
+> !pip install pycaret
 
 
 #### Flask
 Flask is a framework that allows you to build web applications. A web application can be a commercial website, a blog, e-commerce system, or an application that generates predictions from data provided in real-time using trained models. If you don’t have Flask installed, you can use pip to install it.
 
 #### install flask
-- pip install Flask
+> pip install Flask
 
 
 #### Heroku
@@ -46,16 +46,15 @@ Heroku is a platform as a service (PaaS) that enables the deployment of web apps
 
 This project has four major parts :
 
-requirements.txt- Itis a text file containing the names of the python packages required to execute the application. If these packages are not installed in the environment application is running, it will fail.
+> requirements.txt- Itis a text file containing the names of the python packages required to execute the application. If these packages are not installed in the environment application is running, it will fail.
 
-model.py - This contains code fot our Machine Learning model to predict employee salaries absed on trainign data in 'hiring.csv' file.
-app.py - This contains Flask APIs that receives employee details through GUI or API calls, computes the precited value based on our model and returns it.
-request.py - This uses requests module to call APIs already defined in app.py and dispalys the returned value.
-templates - This folder contains the HTML template to allow user to enter employee detail and displays the predicted employee salary.
+> model.py - This contains code fot our Machine Learning model to predict employee salaries absed on trainign data in 'hiring.csv' file.
+> app.py - This contains Flask APIs that receives employee details through GUI or API calls, computes the precited value based on our model and returns it.
+> request.py - This uses requests module to call APIs already defined in app.py and dispalys the returned value.
+> templates - This folder contains the HTML template to allow user to enter employee detail and displays the predicted employee salary.
 Running the project
-Ensure that you are in the project home directory. Create the machine learning model by running below command -
-python model.py
-This would create a serialized version of our model into a file model.pkl
+> Ensure that you are in the project home directory. Create the machine learning model by running below command -
+python model.py This would create a serialized version of our model into a file model.pkl
 
 Run app.py using below command to start Flask API
 python app.py
