@@ -18,7 +18,7 @@ There are two broad ways of generating predictions
 
 <table align='left'>
 <tr>
-<td><img src='https://github.com/harshakantipudi/Deployment-Machine-Learning-Web-app-Heroku/blob/master/Workflow.png' width='500' /></td>
+<td><img src='https://github.com/harshakantipudi/Deployment-Machine-Learning-Web-app-Heroku/blob/master/workflow1.PNG' width='500' /></td>
 </tr>
 </table>
 
