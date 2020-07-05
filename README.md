@@ -1,10 +1,4 @@
-[![Forks][forks-shield]][forks-url]
-
-[![Stargazers][stars-shield]][stars-url]
-
-[![Issues][issues-shield]][issues-url]
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/harshakantipudi/]
 # Deployment-Machine-Learning-Web-app-Heroku
 
 ### Why Deploy Machine Learning Models?
