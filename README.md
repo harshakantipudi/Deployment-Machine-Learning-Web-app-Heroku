@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/harshakantipudi/]
+[![LinkedIn][https://www.linkedin.com/in/harshakantipudi/]][https://www.linkedin.com/in/harshakantipudi/]
 # Deployment-Machine-Learning-Web-app-Heroku
 
 ### Why Deploy Machine Learning Models?
