@@ -16,7 +16,11 @@ There are two broad ways of generating predictions
 3) Build a back-end of the web application using a Flask Framework.
 4) Deploy the web app on Heroku. Once deployed, it will become publicly available and can be accessed via Web URL.
 
-![Screenshot](Heroku-Insurance-Bill.png)
+<table align='left'>
+<tr>
+<td><img src='https://github.com/harshakantipudi/Deployment-Machine-Learning-Web-app-Heroku/blob/master/Workflow.png' width='1000' /></td>
+</tr>
+</table>
 
 ### Tools we will use in this?
 
