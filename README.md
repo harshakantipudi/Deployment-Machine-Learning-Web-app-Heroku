@@ -82,7 +82,7 @@ If everything goes well, you should be able to see the predcited Insurance vaule
 
 <table align='left'>
 <tr>
-<td><img src='https://github.com/harshakantipudi/Deployment-Machine-Learning-Web-app-Heroku/blob/master/Heroku-Insurance-Bill.PNG' width='100' /></td>
+<td><img src='https://github.com/harshakantipudi/Deployment-Machine-Learning-Web-app-Heroku/blob/master/Heroku-Insurance-Bill.PNG' width='600' /></td>
 </tr>
 </table>
 
