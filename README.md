@@ -78,7 +78,13 @@ You should be able to view the homepage as below : alt text
 
 Enter valid numerical values in all 6 input boxes and hit Predict.
 
-If everything goes well, you should be able to see the predcited salary vaule on the HTML page! alt text
+If everything goes well, you should be able to see the predcited Insurance vaule on the HTML page! alt text
+
+<table align='left'>
+<tr>
+<td><img src='https://github.com/harshakantipudi/Deployment-Machine-Learning-Web-app-Heroku/blob/master/Heroku-Insurance-Bill.PNG' width='100' /></td>
+</tr>
+</table>
 
 You can also send direct POST requests to FLask API using Python's inbuilt request module Run the beow command to send the request with some pre-popuated values -
 python request.py
